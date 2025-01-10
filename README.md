@@ -1,6 +1,6 @@
 # SQL Chat Assistant 🤖
 
-An interactive SQL database chat application built with Streamlit and LangChain that allows users to query databases using natural language. The application supports both SQLite and MySQL databases and features interactive visualizations of query results.
+An interactive SQL database chat application built with Streamlit and LangChain that allows users to query databases using natural language. The application supports both SQLite and MySQL databases.
 
 ## 🌟 Features
 
@@ -33,13 +33,7 @@ pip install -r requirements.txt
 
 Or install packages individually:
 ```bash
-pip install streamlit langchain langchain-groq python-dotenv sqlalchemy plotly pandas mysql-connector-python
-```
-
-3. Set up your environment variables:
-Create a `.env` file in the project root and add your Groq API key:
-```
-GROQ_API_KEY=your_api_key_here
+pip install streamlit langchain langchain-groq python-dotenv sqlalchemy mysql-connector-python
 ```
 
 ## 🚀 Usage
