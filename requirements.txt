@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_core
+ipykernel
+streamlit
+langchain_groq
+pandas
+plotly
+mysql-connector-python
+sqlalchemy
