@@ -1,6 +1,6 @@
 # SQL Chat Assistant 🤖
 
-An interactive SQL database chat application built with Streamlit and LangChain that allows users to query databases using natural language. The application supports both SQLite and MySQL databases.
+An interactive SQL database chat application built with Streamlit and LangChain that allows users to query databases using natural language. The application supports both SQLite and MySQL databases .
 
 ## 🌟 Features
 
