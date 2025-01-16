@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 
 st.set_page_config(page_title="Enhanced SQL Chat Assistant", page_icon="🤖", layout="wide")
 
-# Custom CSS for better styling
+## Custom CSS for better styling
 st.markdown("""
     <style>
     .stApp {
